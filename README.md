@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lehi Reid</h1>
 <h3 align="center">A passionate software developer from the United Kingdom</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/LehiR99](https://github.com/LehiR99)
+- 👨‍💻 All of my projects are available at: [https://github.com/LehiR99](https://github.com/LehiR99)
 
-- 📫 How to reach me **lehireid@gmail.com**
+- 📫 How to reach me: **lehireid@gmail.com**
 
-- 📄 Know about my experiences [https://uk.linkedin.com/in/lehi-reid](https://uk.linkedin.com/in/lehi-reid)
+- 📄 Learn about my experiences here: [https://uk.linkedin.com/in/lehi-reid](https://uk.linkedin.com/in/lehi-reid)
 
-- ⚡ Fun fact **I'm also a musician and music producer.**
+- ⚡ Fun fact: **I'm also a musician and music producer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
